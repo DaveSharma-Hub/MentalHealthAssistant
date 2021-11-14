@@ -1,6 +1,6 @@
 # MentalHealthAssistant
 A GUI made with Java Swing to help manage your mental health in this busy day and age.
-Hackathon Submission for Hack The Change 2021. Future plans will include making this into a fully functional web app anyone can use!
+Hackathon Submission for Hack The Change 2021. Future plans will include making this into a fully functional web app anyone can use and improving code quality for future reference.
 
 Sample screenshots:
 ![Capture](https://user-images.githubusercontent.com/73013959/141694203-5a96cf24-d123-44ee-8b33-86dcb3f24944.PNG)
