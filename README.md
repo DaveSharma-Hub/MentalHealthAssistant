@@ -3,8 +3,10 @@ A GUI made with Java Swing to help manage your mental health in this busy day an
 Hackathon Submission for Hack The Change 2021. Future plans will include making this into a fully functional web app anyone can use and improving code quality for future reference.
 
 
-Sample screenshots:
 ![Hackathon](https://user-images.githubusercontent.com/81478885/144721019-c19304a7-517f-4275-8bad-dc8565267ab1.JPG)
+
+Sample screenshots:
+
 ![Capture](https://user-images.githubusercontent.com/73013959/141694203-5a96cf24-d123-44ee-8b33-86dcb3f24944.PNG)
 ![Capture2](https://user-images.githubusercontent.com/73013959/141694205-e07a4cb0-9038-4f8a-a5dd-f7abccfc6a8c.PNG)
 ![Capture3](https://user-images.githubusercontent.com/73013959/141694207-847e8d29-0ed8-493e-9c99-9591c7186826.PNG)
